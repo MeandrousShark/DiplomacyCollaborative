@@ -12,5 +12,6 @@ public class Country {
     HashMap<String, Country> neighbors;
     TileType type;
     Team occupiedBy;
+    int hello = 0;
 
 }
